@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Math-Tech.org</title>
-		<link>https://a-daumas.github.io/Math-Tech.org/tags/</link>
+		<link>https://math-tech.org/tags/</link>
 		<description>Recent content in Tags on Math-Tech.org</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,61 +14,61 @@
 		
 			<lastBuildDate>Fri, 07 Aug 2026 00:34:20 -0700</lastBuildDate>
 		
-			<atom:link href="https://a-daumas.github.io/Math-Tech.org/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://math-tech.org/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>BPR</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/bpr/</link>
+				<link>https://math-tech.org/tags/bpr/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/bpr/</guid>
+				<guid>https://math-tech.org/tags/bpr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Class</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/class/</link>
+				<link>https://math-tech.org/tags/class/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/class/</guid>
+				<guid>https://math-tech.org/tags/class/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Discrete</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/discrete/</link>
+				<link>https://math-tech.org/tags/discrete/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/discrete/</guid>
+				<guid>https://math-tech.org/tags/discrete/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lan Hong</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/lan-hong/</link>
+				<link>https://math-tech.org/tags/lan-hong/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/lan-hong/</guid>
+				<guid>https://math-tech.org/tags/lan-hong/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mathematics</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/mathematics/</link>
+				<link>https://math-tech.org/tags/mathematics/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/mathematics/</guid>
+				<guid>https://math-tech.org/tags/mathematics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MESA Program</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/mesa-program/</link>
+				<link>https://math-tech.org/tags/mesa-program/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/mesa-program/</guid>
+				<guid>https://math-tech.org/tags/mesa-program/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Notes</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/notes/</link>
+				<link>https://math-tech.org/tags/notes/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/notes/</guid>
+				<guid>https://math-tech.org/tags/notes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>San Diego City College</title>
-				<link>https://a-daumas.github.io/Math-Tech.org/tags/san-diego-city-college/</link>
+				<link>https://math-tech.org/tags/san-diego-city-college/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://a-daumas.github.io/Math-Tech.org/tags/san-diego-city-college/</guid>
+				<guid>https://math-tech.org/tags/san-diego-city-college/</guid>
 				<description></description>
 			</item>
 	</channel>
