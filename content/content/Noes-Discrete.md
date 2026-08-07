@@ -16,7 +16,7 @@ I took this class at San Diego City College in fall 2025 with professor Lan Hong
 The organization of this notes is based on MESA-Program at City College *Learning Culture* adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter. In this class I did not create a section summary because the approach to each problem is unique, rather reliant of definitions. Lecture Notes section is lacking in content since the class had the lecture notes posted on the class Canvas page.
 
 ## Tools Used:
-I sued my Remarkable Paper Pro for all the notes.
+I used my Remarkable Paper Pro for all the notes.
 
 # Work:
 
