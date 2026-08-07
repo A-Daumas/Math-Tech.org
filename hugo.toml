@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://math-tech.org/"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
