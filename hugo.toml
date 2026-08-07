@@ -1,4 +1,4 @@
-baseurl = "https://math-tech.org/"
+baseurl = "https://a-daumas.github.io/Math-Tech.org/"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
