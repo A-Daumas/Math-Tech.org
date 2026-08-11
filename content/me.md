@@ -29,7 +29,7 @@ I worked as a barista most of my life. It's a fantastic job, all the coffee you 
 
 I make a fantastic pour over and a killer espresso. My favorite coffee is drip coffee, black, no sugar. Something about the simplicity of it, I feel I'm  an old person at heart. My grandma is one of the wisest persons I know, and she always drinks her coffee black with no sugar, she's on to something.
 
-![Coffee](/me/coffee.png/)
+![Coffee](/me1/coffee.png)
 
 ## Photography
 
@@ -37,7 +37,7 @@ My boss from the coffee shop (He is somewhat of a father figure) told me to sign
 
 I studied under [Patricio Chavez](https://www.mediumphoto.org/team) he is a fantastic professor. Under his guidance, I was able to refine the craft, he has so much to teach, and I wish the math sciences would learn from professors like him. Some times it would appear that my career as a photographer has been more celebrated than my career in math. I have a **very** particular approach to my photography, some times I get in the way of myself.
 
-![Photos](/me/photos.png)
+![Photos](/me1/photos.png)
 
 ## Chess
 
@@ -51,7 +51,7 @@ Throughout my life I have gravitated towards books and they have been companions
 
 I love rock climbing, running, road cycling, swimming, hiking, mountaineering. I don't like going to the gym, I get bored. I love experiencing the world around me, taking my mind off the complicated things in life and being outside is one of the greatest pleasures.
 
-![Bike](/me/bike.png/)
+![Bike](/me1/bike.png)
 
 ## GNU/Linux and IT
 
@@ -61,7 +61,7 @@ Computers have always peaked my attention, since I was a little kid. I would be 
 
 As you could probably already imagine, I am an over-thinker, I have spend countless sleepless nights dealing with existential anxiety. My family was very religious growing up, and that only made things worse. I have always had an affinity for philosophy but it was in college when for the first time I took things seriously and enrolled in many philosophy classes. After all, math is but applied philosophy. Some of my favorite thinkers are Diogones of Sinope, Epictetus, Saint Tomas Aquinas, Søren Kierkegaard, Hegel, Jean-Paul Sartre, Albert Camus amongst many others.
 
-![Sisyphus](/me/book.png/)
+![Sisyphus](/me1/book.png)
 
 ## Fashion
 
