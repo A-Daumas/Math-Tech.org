@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Notes on Math-Tech.org</title>
-		<link>http://localhost:1313/tags/notes/</link>
+		<link>https://math-tech.org/tags/notes/</link>
 		<description>Recent content in Notes on Math-Tech.org</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,27 +14,27 @@
 		
 			<lastBuildDate>Fri, 07 Aug 2026 00:34:20 -0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://math-tech.org/tags/notes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>NOTES: Calculus III</title>
-				<link>http://localhost:1313/content/notes-calc3/</link>
+				<link>https://math-tech.org/content/notes-calc3/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>http://localhost:1313/content/notes-calc3/</guid>
-				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in spring 2025 with professor Christopher Goodbout. The class was administered in person with mandatory meetings twice a week, 4pm to 5:30pm. The book used was Briggs, Cocharn, Gillett, Schulz &lt;em&gt;Calculus early trancendentals&lt;/em&gt; Third edition, by publisher Pearson.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/documents/calc3/3dvol.png&#34; alt=&#34;3dvolume&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
+				<guid>https://math-tech.org/content/notes-calc3/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in spring 2025 with professor Christopher Goodbout. The class was administered in person with mandatory meetings twice a week, 4pm to 5:30pm. The book used was Briggs, Cocharn, Gillett, Schulz &lt;em&gt;Calculus early trancendentals&lt;/em&gt; Third edition, by publisher Pearson.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/calc3/3dvol.png&#34; alt=&#34;3dvolume&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>NOTES: Differential Equations</title>
-				<link>http://localhost:1313/content/notes-diff/</link>
+				<link>https://math-tech.org/content/notes-diff/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>http://localhost:1313/content/notes-diff/</guid>
-				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Christopher Goodbout. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Nagle, Staff and Snider &lt;em&gt;Fundamentals Of Differential Equations&lt;/em&gt; Ninth edition, published by Pearson. Important to note, in this class we used the Pearson online software for homemorks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/documents/Differential/diff.jpg&#34; alt=&#34;Graph&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
+				<guid>https://math-tech.org/content/notes-diff/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Christopher Goodbout. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Nagle, Staff and Snider &lt;em&gt;Fundamentals Of Differential Equations&lt;/em&gt; Ninth edition, published by Pearson. Important to note, in this class we used the Pearson online software for homemorks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/Differential/diff.jpg&#34; alt=&#34;Graph&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>NOTES: Discrete Mathematics</title>
-				<link>http://localhost:1313/content/notes-discrete/</link>
+				<link>https://math-tech.org/content/notes-discrete/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>http://localhost:1313/content/notes-discrete/</guid>
-				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Lan Hong. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Kenneth H. Rosen &lt;em&gt;Discrete Mathematics and its Applications&lt;/em&gt; Eight edition, by publisher McGraw Hill Education.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/documents/Discrete/euclid.jpg&#34; alt=&#34;Euclid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter. In this class I did not create a section summary because the approach to each problem is unique, rather reliant of definitions. Lecture Notes section is lacking in content since the class had the lecture notes posted on the class Canvas page.&lt;/p&gt;</description>
+				<guid>https://math-tech.org/content/notes-discrete/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Lan Hong. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Kenneth H. Rosen &lt;em&gt;Discrete Mathematics and its Applications&lt;/em&gt; Eight edition, by publisher McGraw Hill Education.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/Discrete/euclid.jpg&#34; alt=&#34;Euclid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter. In this class I did not create a section summary because the approach to each problem is unique, rather reliant of definitions. Lecture Notes section is lacking in content since the class had the lecture notes posted on the class Canvas page.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
