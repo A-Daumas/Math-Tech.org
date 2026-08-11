@@ -14,7 +14,7 @@ It's a non profit created for the development and further advancement of mathema
 Math-Tech.org is a platform created to host papers, documents, articles and more regarding the mathematical accomplishments and work of Alexander Daumas and friends. The objective is to create a tight knit community of math enthusiast and to share some of the things that have helped us along the way to acquire math *charisma*.
 
 ### Who is Math-Tehc.org
-Organizations are not people, yet. But if you're curious about who is behind Math-Tech.org, then that would be me. My name is Alexander Daumas, check my **bio** to learn more!.
+Organizations are not people, yet. But if you're curious about who is behind Math-Tech.org, then that would be me. My name is Alexander Daumas, check my [**bio**](/me/) to learn more!.
 
 ### Where did Math-Tech.org come from?
 **Math-Tech.org** was created by Alexander Daumas. A mathematics student at San Diego City College with a huge love for math and mathematics education. He created this website in 2025 to submit a TLD to ICANN to create a .math or .mathematics TLD. However, he got distracted with schoolwork and other things from life and only got half way through his application process loosing his window of application. Next decade he says.

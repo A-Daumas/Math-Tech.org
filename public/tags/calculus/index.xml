@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Calculus on Math-Tech.org</title>
+		<link>https://math-tech.org/tags/calculus/</link>
+		<description>Recent content in Calculus on Math-Tech.org</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Alexander Daumas | © 2026</copyright>
+		
+		
+			<lastBuildDate>Fri, 07 Aug 2026 00:34:20 -0700</lastBuildDate>
+		
+			<atom:link href="https://math-tech.org/tags/calculus/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NOTES: Calculus III</title>
+				<link>https://math-tech.org/content/notes-calc3/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/content/notes-calc3/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in spring 2025 with professor Christopher Goodbout. The class was administered in person with mandatory meetings twice a week, 4pm to 5:30pm. The book used was Briggs, Cocharn, Gillett, Schulz &lt;em&gt;Calculus early trancendentals&lt;/em&gt; Third edition, by publisher Pearson.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/calc3/3dvol.png&#34; alt=&#34;3dvolume&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

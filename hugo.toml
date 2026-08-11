@@ -36,7 +36,7 @@ pagination.pagerSize = 5
         name = "Content"
         url = "/content/"
       [[languages.en.menu.main]]
-        identifier = "extra"
-        name = "Extra"
-        url = "/extra/"
+        identifier = "Bio"
+        name = "Bio"
+        url = "/me"
 

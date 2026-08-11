@@ -16,18 +16,32 @@
 		
 			<atom:link href="https://math-tech.org/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>NOTES: Discrete Mathematics</title>
-				<link>https://math-tech.org/content/noes-discrete/</link>
+				<title>NOTES: Calculus III</title>
+				<link>https://math-tech.org/content/notes-calc3/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
-				<guid>https://math-tech.org/content/noes-discrete/</guid>
+				<guid>https://math-tech.org/content/notes-calc3/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in spring 2025 with professor Christopher Goodbout. The class was administered in person with mandatory meetings twice a week, 4pm to 5:30pm. The book used was Briggs, Cocharn, Gillett, Schulz &lt;em&gt;Calculus early trancendentals&lt;/em&gt; Third edition, by publisher Pearson.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/calc3/3dvol.png&#34; alt=&#34;3dvolume&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>NOTES: Differential Equations</title>
+				<link>https://math-tech.org/content/notes-diff/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/content/notes-diff/</guid>
+				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Christopher Goodbout. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Nagle, Staff and Snider &lt;em&gt;Fundamentals Of Differential Equations&lt;/em&gt; Ninth edition, published by Pearson. Important to note, in this class we used the Pearson online software for homemorks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/Differential/diff.jpg&#34; alt=&#34;Graph&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>NOTES: Discrete Mathematics</title>
+				<link>https://math-tech.org/content/notes-discrete/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/content/notes-discrete/</guid>
 				<description>&lt;h1 id=&#34;content&#34;&gt;Content:&lt;/h1&gt;&#xA;&lt;p&gt;I took this class at San Diego City College in fall 2025 with professor Lan Hong. The class was administered fully online with mandatory meetings twice a week, 5pm to 7pm. The book used was Kenneth H. Rosen &lt;em&gt;Discrete Mathematics and its Applications&lt;/em&gt; Eight edition, by publisher McGraw Hill Education.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://math-tech.org/documents/Discrete/euclid.jpg&#34; alt=&#34;Euclid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;organization&#34;&gt;Organization:&lt;/h2&gt;&#xA;&lt;p&gt;The organization of this notes is based on MESA-Program at City College &lt;em&gt;Learning Culture&lt;/em&gt; adapted by myself to fit to a modern digital study workflow. Every page corresponds to a section, homework or chapter. In this class I did not create a section summary because the approach to each problem is unique, rather reliant of definitions. Lecture Notes section is lacking in content since the class had the lecture notes posted on the class Canvas page.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Extra</title>
-				<link>https://math-tech.org/extra/</link>
+				<title>Who is Alexander Daumas</title>
+				<link>https://math-tech.org/me/</link>
 				<pubDate>Fri, 07 Aug 2026 00:30:13 -0700</pubDate>
-				<guid>https://math-tech.org/extra/</guid>
-				<description>&lt;h1 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Our most sincere apologies for the inconvenience&amp;hellip;&#xA;We are working hard to complete the site.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+				<guid>https://math-tech.org/me/</guid>
+				<description>&lt;h1 id=&#34;my-autobiography&#34;&gt;My autobiography&lt;/h1&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://math-tech.org/me.png&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Terminal Theme Preview&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Photo taken March 25, 2026.&lt;/p&gt;&#xA;&#x9;&#x9;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;My name is Alexander Daumas, I study and tutor &lt;strong&gt;mathematics&lt;/strong&gt; for the MESA center at San Diego City College. I was born in 2003 in San Diego, California but my family and I had to leave in 2008 because we lost our home. My family returned to Mexico and I completed all my education up to high school in Ensenada, Baja California -A medium sized fishing town south of Tijuana about 80 mi (129 km) from San Diego.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>

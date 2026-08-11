@@ -23,6 +23,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Calculus</title>
+				<link>https://math-tech.org/tags/calculus/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/tags/calculus/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Class</title>
 				<link>https://math-tech.org/tags/class/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
@@ -30,10 +37,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Differential Equations</title>
+				<link>https://math-tech.org/tags/differential-equations/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/tags/differential-equations/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Discrete</title>
 				<link>https://math-tech.org/tags/discrete/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
 				<guid>https://math-tech.org/tags/discrete/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Goodbout</title>
+				<link>https://math-tech.org/tags/goodbout/</link>
+				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
+				<guid>https://math-tech.org/tags/goodbout/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -69,6 +90,20 @@
 				<link>https://math-tech.org/tags/san-diego-city-college/</link>
 				<pubDate>Fri, 07 Aug 2026 00:34:20 -0700</pubDate>
 				<guid>https://math-tech.org/tags/san-diego-city-college/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bio</title>
+				<link>https://math-tech.org/tags/bio/</link>
+				<pubDate>Fri, 07 Aug 2026 00:30:13 -0700</pubDate>
+				<guid>https://math-tech.org/tags/bio/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Personal</title>
+				<link>https://math-tech.org/tags/personal/</link>
+				<pubDate>Fri, 07 Aug 2026 00:30:13 -0700</pubDate>
+				<guid>https://math-tech.org/tags/personal/</guid>
 				<description></description>
 			</item>
 	</channel>
