@@ -24,5 +24,5 @@ I used my Remarkable Paper Pro for all the notes.
 - [Home Work](/documents/Differential/share/workbook.pdf)
 - [BPR](/documents/Differential/share/BPR.pdf)
 - [Section Summary](/documents/Differential/share/section-summary.pdf)
-- [Practice Exam 1](documents/Differential/share/practice-exam-1.pdf)
-- [Practice Exam 2](documents/Differential/share/practice-exam-2.pdf)
+- [Practice Exam 1](/documents/Differential/share/practice-exam-1.pdf)
+- [Practice Exam 2](/documents/Differential/share/practice-exam-2.pdf)

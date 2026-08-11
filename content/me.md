@@ -80,7 +80,7 @@ I like good music. All eras, but if I had to pick, I would probably say 70's. I 
 - On my photography exposition at City College: [City College student explores stage of being ‘in between things’ through art](https://sdcitytimes.com/top-stories/2025/10/29/city-college-student-in-between-things-through-art/)
 
 # Resume
-- Alexander Daumas: [Resume 2026](/RESUME.pdf/)
+- Alexander Daumas: [Resume 2026](/RESUME.pdf)
 
 # Contact
 
