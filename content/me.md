@@ -37,7 +37,7 @@ My boss from the coffee shop (He is somewhat of a father figure) told me to sign
 
 I studied under [Patricio Chavez](https://www.mediumphoto.org/team) he is a fantastic professor. Under his guidance, I was able to refine the craft, he has so much to teach, and I wish the math sciences would learn from professors like him. Some times it would appear that my career as a photographer has been more celebrated than my career in math. I have a **very** particular approach to my photography, some times I get in the way of myself.
 
-![Photos](/me/photos.png/)
+![Photos](/me/photos.png)
 
 ## Chess
 

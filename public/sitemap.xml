@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://math-tech.org/tags/bpr/</loc>
+    <loc>http://localhost:1313/tags/bpr/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/calculus/</loc>
+    <loc>http://localhost:1313/tags/calculus/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/class/</loc>
+    <loc>http://localhost:1313/tags/class/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/content/</loc>
+    <loc>http://localhost:1313/content/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/differential-equations/</loc>
+    <loc>http://localhost:1313/tags/differential-equations/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/discrete/</loc>
+    <loc>http://localhost:1313/tags/discrete/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/goodbout/</loc>
+    <loc>http://localhost:1313/tags/goodbout/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/lan-hong/</loc>
+    <loc>http://localhost:1313/tags/lan-hong/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/mathematics/</loc>
+    <loc>http://localhost:1313/tags/mathematics/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/mesa-program/</loc>
+    <loc>http://localhost:1313/tags/mesa-program/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/notes/</loc>
+    <loc>http://localhost:1313/tags/notes/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/content/notes-calc3/</loc>
+    <loc>http://localhost:1313/content/notes-calc3/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/content/notes-diff/</loc>
+    <loc>http://localhost:1313/content/notes-diff/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/content/notes-discrete/</loc>
+    <loc>http://localhost:1313/content/notes-discrete/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/san-diego-city-college/</loc>
+    <loc>http://localhost:1313/tags/san-diego-city-college/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-08-07T00:34:20-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/bio/</loc>
+    <loc>http://localhost:1313/tags/bio/</loc>
     <lastmod>2026-08-07T00:30:13-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2026-08-07T00:30:13-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/me/</loc>
+    <loc>http://localhost:1313/me/</loc>
     <lastmod>2026-08-07T00:30:13-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-08-07T00:01:31-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-08-06T23:43:45-07:00</lastmod>
   </url><url>
-    <loc>https://math-tech.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

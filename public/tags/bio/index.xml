@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bio on Math-Tech.org</title>
-		<link>https://math-tech.org/tags/bio/</link>
+		<link>http://localhost:1313/tags/bio/</link>
 		<description>Recent content in Bio on Math-Tech.org</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,13 +14,13 @@
 		
 			<lastBuildDate>Fri, 07 Aug 2026 00:30:13 -0700</lastBuildDate>
 		
-			<atom:link href="https://math-tech.org/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/bio/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Who is Alexander Daumas</title>
-				<link>https://math-tech.org/me/</link>
+				<link>http://localhost:1313/me/</link>
 				<pubDate>Fri, 07 Aug 2026 00:30:13 -0700</pubDate>
-				<guid>https://math-tech.org/me/</guid>
-				<description>&lt;h1 id=&#34;my-autobiography&#34;&gt;My autobiography&lt;/h1&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://math-tech.org/me.png&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Terminal Theme Preview&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Photo taken March 25, 2026.&lt;/p&gt;&#xA;&#x9;&#x9;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;My name is Alexander Daumas, I study and tutor &lt;strong&gt;mathematics&lt;/strong&gt; for the MESA center at San Diego City College. I was born in 2003 in San Diego, California but my family and I had to leave in 2008 because we lost our home. My family returned to Mexico and I completed all my education up to high school in Ensenada, Baja California -A medium sized fishing town south of Tijuana about 80 mi (129 km) from San Diego.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/me/</guid>
+				<description>&lt;h1 id=&#34;my-autobiography&#34;&gt;My autobiography&lt;/h1&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/me.png&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Terminal Theme Preview&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Photo taken March 25, 2026.&lt;/p&gt;&#xA;&#x9;&#x9;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;My name is Alexander Daumas, I study and tutor &lt;strong&gt;mathematics&lt;/strong&gt; for the MESA center at San Diego City College. I was born in 2003 in San Diego, California but my family and I had to leave in 2008 because we lost our home. My family returned to Mexico and I completed all my education up to high school in Ensenada, Baja California -A medium sized fishing town south of Tijuana about 80 mi (129 km) from San Diego.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
